@@ -1,6 +1,6 @@
 # Respond.js 
 ### A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
-
+### 让IE6-8能识别Media Queries设置的min/max-width的JS库。对IE6-8使用自适应布局有用处
  - Copyright 2011: Scott Jehl, scottjehl.com
  - Dual licensed under the MIT or GPL Version 2 licenses. 
  
